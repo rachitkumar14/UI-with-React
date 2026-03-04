@@ -1,2 +1,2 @@
 ## Project Preview
-![Project Screenshot](./Screenshot/Project_ss.jpeg)
+![Project Screenshot](./public/Screenshot/Project_ss.jpeg)
